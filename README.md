@@ -1,7 +1,7 @@
 # Angular_Cadastro-Produtos
 Sistema simples de cadastro de produtos - Angular
 
-###Executando o aplicativo Angular simples de instalar
+## Executando o aplicativo Angular simples de instalar
 <hr>
 Primeira coisa é rodar o servidor -> Entrar no diretório backend e executar npm start.
 Mantenha o terminal aberto com o servidor rodando.
