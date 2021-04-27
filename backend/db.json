@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple MacBook Pro",
+      "price": "12950.00"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Samsung Expert x20",
+      "price": "3499.99"
+    },
+    {
+      "id": 3,
+      "name": "Notebook Dell Inspiron",
+      "price": "4949.89"
+    },
+    {
+      "name": "Notebook Acer Aspire 5",
+      "price": "3894.00",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Notebook HP 250 G7",
+      "price": "3324.05"
+    }
+  ]
+}
